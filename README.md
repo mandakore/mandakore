@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,13 +46,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        1 hr 5 mins         ██████████████████░░░░░░░   72.86 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Makefile                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Objective-C              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -64,6 +64,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2025 09:49:59 UTC
+ Last Updated on 09/06/2025 18:50:05 UTC
 <!--END_SECTION:waka-->
 
