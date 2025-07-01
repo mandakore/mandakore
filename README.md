@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%205%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -32,11 +30,41 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                10 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌆 Daytime                19 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌃 Evening                7 commits           █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+C                        13 hrs 40 mins      █████████████████████░░░░   84.59 % 
+C++                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Makefile                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 9 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    15 hrs 41 mins      ████████████████████████░   97.11 % 
+WSL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:51:47 UTC
+ Last Updated on 01/07/2025 18:50:58 UTC
 <!--END_SECTION:waka-->
 
