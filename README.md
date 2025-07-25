@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20thousand%20lines%20of%20code-blue)
 
@@ -26,47 +26,19 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15 commits          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-🌆 Daytime                38 commits          ███████████████░░░░░░░░░░   61.29 % 
-🌃 Evening                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-C                        3 hrs 42 mins       █████████████████████░░░░   82.67 % 
-Go                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 57 mins       ██████████████████████░░░   88.28 % 
-WSL                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 18:55:17 UTC
+ Last Updated on 25/07/2025 18:54:53 UTC
 <!--END_SECTION:waka-->
 
