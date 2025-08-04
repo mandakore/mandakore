@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -48,17 +50,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        1 hr 27 mins        █████████████████████░░░░   83.45 % 
-Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -66,6 +64,6 @@ Linux                    1 hr 45 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 18:53:07 UTC
+ Last Updated on 04/08/2025 18:57:19 UTC
 <!--END_SECTION:waka-->
 
