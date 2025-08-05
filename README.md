@@ -50,13 +50,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 mins              █████████████████████████   99.74 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      5 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -64,6 +65,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 18:57:19 UTC
+ Last Updated on 05/08/2025 18:58:35 UTC
 <!--END_SECTION:waka-->
 
