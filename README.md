@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -65,6 +67,6 @@ WSL                      13 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:48:46 UTC
+ Last Updated on 17/08/2025 18:50:00 UTC
 <!--END_SECTION:waka-->
 
