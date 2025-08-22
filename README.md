@@ -28,17 +28,17 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                38 commits          ███████████████░░░░░░░░░░   59.38 % 
-🌃 Evening                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+🌞 Morning                16 commits          ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+🌆 Daytime                38 commits          ██████████████░░░░░░░░░░░   57.58 % 
+🌃 Evening                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -48,13 +48,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 mins              ███████████████████░░░░░░   74.55 % 
+Bash                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -62,6 +63,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 18:49:27 UTC
+ Last Updated on 22/08/2025 18:49:17 UTC
 <!--END_SECTION:waka-->
 
