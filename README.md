@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20thousand%20lines%20of%20code-blue)
 
@@ -65,6 +65,6 @@ Linux                    3 mins              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 18:47:36 UTC
+ Last Updated on 25/08/2025 18:50:54 UTC
 <!--END_SECTION:waka-->
 
