@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -65,6 +67,6 @@ Linux                    3 mins              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 18:49:05 UTC
+ Last Updated on 27/08/2025 18:47:35 UTC
 <!--END_SECTION:waka-->
 
