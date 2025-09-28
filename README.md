@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -39,6 +37,6 @@ Here are some ideas to get you started:
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:44:31 UTC
+ Last Updated on 28/09/2025 18:44:10 UTC
 <!--END_SECTION:waka-->
 
