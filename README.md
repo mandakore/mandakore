@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
+> 🏆 53 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌆 Daytime                39 commits          ███████████████░░░░░░░░░░   58.21 % 
-🌃 Evening                10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+🌞 Morning                16 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌆 Daytime                39 commits          ██████████████░░░░░░░░░░░   57.35 % 
+🌃 Evening                11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -50,13 +50,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+C                        3 mins              █████████████████████████   98.61 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      0 secs              █████████████████████████   100.00 % 
+WSL                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -64,6 +65,6 @@ WSL                      0 secs              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 18:49:22 UTC
+ Last Updated on 30/09/2025 18:47:41 UTC
 <!--END_SECTION:waka-->
 
