@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20thousand%20lines%20of%20code-blue)
 
@@ -50,14 +50,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        3 mins              █████████████████████████   98.61 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+C                        1 hr 8 mins         ██████████████████░░░░░░░   73.63 % 
+Text                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      3 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 29 mins        ████████████████████████░   96.17 % 
+WSL                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 
 **Timeline**
@@ -65,6 +67,6 @@ WSL                      3 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 18:47:41 UTC
+ Last Updated on 01/10/2025 18:48:35 UTC
 <!--END_SECTION:waka-->
 
