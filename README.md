@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2041%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2025
+> 🏆 76 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌆 Daytime                44 commits          █████████████░░░░░░░░░░░░   51.16 % 
-🌃 Evening                22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+🌞 Morning                18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌆 Daytime                46 commits          █████████████░░░░░░░░░░░░   51.69 % 
+🌃 Evening                23 commits          ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 
 
@@ -68,6 +68,6 @@ Linux                    12 hrs 10 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 18:44:44 UTC
+ Last Updated on 13/10/2025 18:48:29 UTC
 <!--END_SECTION:waka-->
 
