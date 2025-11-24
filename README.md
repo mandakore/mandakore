@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.1%20thousand%20lines%20of%20code-blue)
 
@@ -50,17 +50,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ████████████████░░░░░░░░░   62.74 % 
-C                        34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               1 hr 27 mins        ███████████████░░░░░░░░░░   59.93 % 
+Other                    42 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 18 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -68,6 +68,6 @@ WSL                      2 hrs 18 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 18:48:19 UTC
+ Last Updated on 24/11/2025 18:52:42 UTC
 <!--END_SECTION:waka-->
 
