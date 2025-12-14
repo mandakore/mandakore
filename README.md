@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.2%20thousand%20lines%20of%20code-blue)
 
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2025
+> 🏆 104 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -50,15 +50,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 45 mins             ████████████████░░░░░░░░░   63.69 % 
-C                        26 mins             █████████░░░░░░░░░░░░░░░░   36.31 % 
+C                        1 hr 25 mins        ██████████████░░░░░░░░░░░   57.66 % 
+Markdown                 48 mins             ████████░░░░░░░░░░░░░░░░░   32.41 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      45 mins             ████████████████░░░░░░░░░   63.69 % 
-Linux                    26 mins             █████████░░░░░░░░░░░░░░░░   36.31 % 
+Linux                    1 hr 29 mins        ███████████████░░░░░░░░░░   60.14 % 
+WSL                      59 mins             ██████████░░░░░░░░░░░░░░░   39.86 % 
 ```
 
 **Timeline**
@@ -66,6 +69,6 @@ Linux                    26 mins             █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 18:48:57 UTC
+ Last Updated on 14/12/2025 18:49:54 UTC
 <!--END_SECTION:waka-->
 
