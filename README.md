@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.35%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,18 +50,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C++                      2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-C                        1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+C++                      2 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.78 % 
+C                        1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.17 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Makefile                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 47 mins       ███████████████████░░░░░░   76.94 % 
-WSL                      1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Linux                    2 hrs 58 mins       ████████████████░░░░░░░░░   64.83 % 
+WSL                      1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   35.17 % 
 ```
 
 **Timeline**
@@ -69,6 +69,6 @@ WSL                      1 hr 44 mins        ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:52:58 UTC
+ Last Updated on 01/01/2026 18:53:36 UTC
 <!--END_SECTION:waka-->
 
