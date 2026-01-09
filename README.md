@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.35%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.37%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27 commits          █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-🌆 Daytime                65 commits          ███████████░░░░░░░░░░░░░░   44.52 % 
-🌃 Evening                42 commits          ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+🌞 Morning                27 commits          █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+🌆 Daytime                65 commits          ███████████░░░░░░░░░░░░░░   44.22 % 
+🌃 Evening                43 commits          ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+🌙 Night                  12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 ```
 
 
@@ -50,13 +50,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        50 mins             ████████████░░░░░░░░░░░░░   47.68 % 
+C++                      47 mins             ███████████░░░░░░░░░░░░░░   44.99 % 
+Makefile                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      56 mins             █████████████░░░░░░░░░░░░   52.99 % 
+Linux                    50 mins             ████████████░░░░░░░░░░░░░   47.01 % 
 ```
 
 **Timeline**
@@ -64,6 +67,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/mandakore/mandakore/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 18:54:49 UTC
+ Last Updated on 09/01/2026 18:56:10 UTC
 <!--END_SECTION:waka-->
 
