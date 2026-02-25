@@ -1,12 +1,3 @@
-<div align="center">
-
-
-<img src="https://komarev.com/ghpvc/?username=mandakore&style=for-the-badge&color=0e75b6" alt="profile views" />
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -36,38 +27,4 @@
   <img src="./assets/metrics-languages.svg" alt="Languages" />
 </div>
 
----
-
-### ⏱️ Weekly Dev Metrics
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 3.7 kB Used in GitHub's Storage 
- > 
-> 🏆 188 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I Mostly Code in C** 
-
-```text
-C                        10 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.67 % 
-Go                       2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.33 % 
-HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.67 % 
-Python                   1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.67 % 
-C++                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.67 % 
-```
-
-
-
-
- Last Updated on 25/02/2026 17:34:59 UTC
-<!--END_SECTION:waka-->
-
----
 
