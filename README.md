@@ -33,12 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/metrics-languages.svg" alt="Languages" width="49%" />
-  <img src="./assets/metrics-habits.svg" alt="Coding Habits" width="49%" />
-</div>
-
-<div align="center">
-  <img src="./assets/metrics-isocalendar.svg" alt="Contribution Calendar" />
+  <img src="./assets/metrics-languages.svg" alt="Languages" />
 </div>
 
 ---
